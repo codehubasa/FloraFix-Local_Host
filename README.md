@@ -4,7 +4,7 @@ AI-powered plant disease detection platform integrating modern Artificial Intell
 
 📌 Overview
 
-FloraF is an intelligent web-based platform designed to help farmers and plant enthusiasts detect plant diseases early, receive actionable remedies, and improve crop health efficiently. By combining Deep Learning (CNN models) with natural Ayurvedic treatments, FloraFix promotes eco-friendly and sustainable farming practices.
+Flora is an intelligent web-based platform designed to help farmers and plant enthusiasts detect plant diseases early, receive actionable remedies, and improve crop health efficiently. By combining Deep Learning (CNN models) with natural Ayurvedic treatments, FloraFix promotes eco-friendly and sustainable farming practices.
 
 🚀 Features
 
