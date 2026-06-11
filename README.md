@@ -1,6 +1,6 @@
 🌿 FloraFix – Diagnose, Treat, and Thrive
 
-AI-powered plant disease detection platform integrating modern Artificial Intelligence with Ayurvedic wisdom for sustainable agriculture in India.
+AI-powered plant disease detection platform integrating modern Artificial Intelligence with Ayurvedic wisdom for sustainable agriculture in Indi.
 
 📌 Overview
 
